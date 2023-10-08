@@ -32,7 +32,7 @@
 
 })(window, undefined);
 
-console.log('hi2')
+console.log('hi22')
 
 fetch('https://jsonplaceholder.typicode.com/posts/1')
     .then((response) => response.json())
