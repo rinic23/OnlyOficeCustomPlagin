@@ -30,7 +30,7 @@
             this.executeCommand("close", "");
     };
 
-    console.log('hi222')
+    console.log('hi22222')
 
     fetch('https://jsonplaceholder.typicode.com/posts/1')
         .then((response) => response.json())
