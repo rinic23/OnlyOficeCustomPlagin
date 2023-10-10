@@ -1,10 +1,10 @@
 {
-  "name" : "Invoices",
-  "guid" : "asc.{6B6715E5-A558-4F70-8058-40704CD659CD}",
+  "name" : "Invoices@@##@!",
+  "guid" : "asc.{6B6715E5-A558-4F70-8058-40704CD659Cd}",
 
   "variations" : [
     {
-      "description" : "invoices",
+      "description" : "invoices!@#!@#!@3",
       "url"         : "index.html",
 
       "icons"           : ["resources/img/icon.png", "resources/img/icon@2x.png"],
